@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sp-siding/static/css/main.073c9b0a.css",
+    "main.js": "/sp-siding/static/js/main.4cd2b76c.js",
+    "static/js/787.21e9b7aa.chunk.js": "/sp-siding/static/js/787.21e9b7aa.chunk.js",
+    "index.html": "/sp-siding/index.html",
+    "main.073c9b0a.css.map": "/sp-siding/static/css/main.073c9b0a.css.map",
+    "main.4cd2b76c.js.map": "/sp-siding/static/js/main.4cd2b76c.js.map",
+    "787.21e9b7aa.chunk.js.map": "/sp-siding/static/js/787.21e9b7aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4cd2b76c.js"
+  ]
+}
