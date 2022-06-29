@@ -2,7 +2,7 @@
   "name": "sp-siding",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://obsessive-coder.github.io/sp-siding/",
+  "homepage": "https://Obsessive-Coder.github.io/sp-siding",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
